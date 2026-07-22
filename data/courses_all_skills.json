@@ -1,0 +1,163 @@
+{
+  "metadata": {
+    "total_skills": 4,
+    "levels": ["beginner", "intermediate", "advanced"],
+    "courses_per_level": 1,
+    "total_courses": 12,
+    "note": "Sample courses for demonstration"
+  },
+  "courses": {
+    "Python": {
+      "beginner": [
+        {
+          "id": "python_beginner_1",
+          "title": "Python for Beginners",
+          "platform": "Coursera",
+          "instructor": "University of Michigan",
+          "duration": "8 weeks",
+          "price": "Free",
+          "url": "https://www.coursera.org/learn/python",
+          "description": "Learn Python programming basics including variables, loops, and functions."
+        }
+      ],
+      "intermediate": [
+        {
+          "id": "python_intermediate_1",
+          "title": "Intermediate Python",
+          "platform": "Udemy",
+          "instructor": "John Doe",
+          "duration": "10 hours",
+          "price": "$49.99",
+          "url": "https://www.udemy.com/python-intermediate",
+          "description": "Advanced Python concepts including OOP, decorators, and data structures."
+        }
+      ],
+      "advanced": [
+        {
+          "id": "python_advanced_1",
+          "title": "Advanced Python Programming",
+          "platform": "edX",
+          "instructor": "MIT",
+          "duration": "12 weeks",
+          "price": "Free",
+          "url": "https://www.edx.org/python-advanced",
+          "description": "Master advanced Python topics including concurrency and optimization."
+        }
+      ]
+    },
+    "Machine Learning": {
+      "beginner": [
+        {
+          "id": "ml_beginner_1",
+          "title": "Machine Learning Basics",
+          "platform": "Coursera",
+          "instructor": "Andrew Ng",
+          "duration": "11 weeks",
+          "price": "Free",
+          "url": "https://www.coursera.org/learn/machine-learning",
+          "description": "Introduction to machine learning algorithms and applications."
+        }
+      ],
+      "intermediate": [
+        {
+          "id": "ml_intermediate_1",
+          "title": "Applied Machine Learning",
+          "platform": "Udacity",
+          "instructor": "Google",
+          "duration": "3 months",
+          "price": "Free",
+          "url": "https://www.udacity.com/ml-intermediate",
+          "description": "Practical machine learning with scikit-learn and TensorFlow."
+        }
+      ],
+      "advanced": [
+        {
+          "id": "ml_advanced_1",
+          "title": "Deep Learning Specialization",
+          "platform": "Coursera",
+          "instructor": "Andrew Ng",
+          "duration": "16 weeks",
+          "price": "$49/month",
+          "url": "https://www.coursera.org/deep-learning",
+          "description": "Comprehensive deep learning course covering neural networks and CNNs."
+        }
+      ]
+    },
+    "Data Visualization": {
+      "beginner": [
+        {
+          "id": "dv_beginner_1",
+          "title": "Data Visualization with Python",
+          "platform": "DataCamp",
+          "instructor": "DataCamp Team",
+          "duration": "4 hours",
+          "price": "$25/month",
+          "url": "https://www.datacamp.com/dv-beginner",
+          "description": "Learn to create visualizations using matplotlib and seaborn."
+        }
+      ],
+      "intermediate": [
+        {
+          "id": "dv_intermediate_1",
+          "title": "Advanced Data Visualization",
+          "platform": "Udemy",
+          "instructor": "Jane Smith",
+          "duration": "8 hours",
+          "price": "$39.99",
+          "url": "https://www.udemy.com/dv-intermediate",
+          "description": "Interactive visualizations with Plotly and D3.js."
+        }
+      ],
+      "advanced": [
+        {
+          "id": "dv_advanced_1",
+          "title": "Data Storytelling",
+          "platform": "Coursera",
+          "instructor": "Tableau",
+          "duration": "6 weeks",
+          "price": "Free",
+          "url": "https://www.coursera.org/dv-advanced",
+          "description": "Master the art of communicating insights through data visualization."
+        }
+      ]
+    },
+    "Statistical Analysis": {
+      "beginner": [
+        {
+          "id": "sa_beginner_1",
+          "title": "Statistics for Data Science",
+          "platform": "Khan Academy",
+          "instructor": "Khan Academy",
+          "duration": "Self-paced",
+          "price": "Free",
+          "url": "https://www.khanacademy.org/sa-beginner",
+          "description": "Fundamental statistics concepts for data analysis."
+        }
+      ],
+      "intermediate": [
+        {
+          "id": "sa_intermediate_1",
+          "title": "Statistical Inference",
+          "platform": "edX",
+          "instructor": "Harvard",
+          "duration": "8 weeks",
+          "price": "Free",
+          "url": "https://www.edx.org/sa-intermediate",
+          "description": "Hypothesis testing, confidence intervals, and regression analysis."
+        }
+      ],
+      "advanced": [
+        {
+          "id": "sa_advanced_1",
+          "title": "Advanced Statistics",
+          "platform": "Stanford Online",
+          "instructor": "Stanford",
+          "duration": "10 weeks",
+          "price": "$149",
+          "url": "https://www.stanford.edu/sa-advanced",
+          "description": "Multivariate analysis, time series, and Bayesian statistics."
+        }
+      ]
+    }
+  }
+}

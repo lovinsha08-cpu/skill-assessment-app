@@ -1,0 +1,238 @@
+{
+  "metadata": {
+    "total_skills": 4,
+    "questions_per_skill": 5,
+    "total_questions": 20,
+    "type": "scenario_based"
+  },
+  "skills": {
+    "Python": [
+      {
+        "id": "Python_1",
+        "question": "What is the output of print(2 ** 3)?",
+        "options": {
+          "A": "6",
+          "B": "8",
+          "C": "9",
+          "D": "16"
+        },
+        "answer": "B"
+      },
+      {
+        "id": "Python_2",
+        "question": "Which of the following is a mutable data type in Python?",
+        "options": {
+          "A": "tuple",
+          "B": "string",
+          "C": "list",
+          "D": "int"
+        },
+        "answer": "C"
+      },
+      {
+        "id": "Python_3",
+        "question": "What does 'len()' function do?",
+        "options": {
+          "A": "Returns the length of an object",
+          "B": "Converts to lowercase",
+          "C": "Rounds a number",
+          "D": "Creates a list"
+        },
+        "answer": "A"
+      },
+      {
+        "id": "Python_4",
+        "question": "How do you start a comment in Python?",
+        "options": {
+          "A": "//",
+          "B": "#",
+          "C": "/*",
+          "D": "--"
+        },
+        "answer": "B"
+      },
+      {
+        "id": "Python_5",
+        "question": "What is the correct way to create a function in Python?",
+        "options": {
+          "A": "function myFunc():",
+          "B": "def myFunc():",
+          "C": "create myFunc():",
+          "D": "func myFunc():"
+        },
+        "answer": "B"
+      }
+    ],
+    "Machine Learning": [
+      {
+        "id": "ML_1",
+        "question": "What is supervised learning?",
+        "options": {
+          "A": "Learning without labeled data",
+          "B": "Learning with labeled data",
+          "C": "Learning from images only",
+          "D": "Learning from text only"
+        },
+        "answer": "B"
+      },
+      {
+        "id": "ML_2",
+        "question": "Which algorithm is used for classification?",
+        "options": {
+          "A": "Linear Regression",
+          "B": "Logistic Regression",
+          "C": "K-Means",
+          "D": "PCA"
+        },
+        "answer": "B"
+      },
+      {
+        "id": "ML_3",
+        "question": "What is overfitting?",
+        "options": {
+          "A": "Model performs well on training data but poorly on new data",
+          "B": "Model performs poorly on training data",
+          "C": "Model has too few parameters",
+          "D": "Model converges too slowly"
+        },
+        "answer": "A"
+      },
+      {
+        "id": "ML_4",
+        "question": "What is cross-validation used for?",
+        "options": {
+          "A": "To train the model faster",
+          "B": "To evaluate model performance",
+          "C": "To reduce data size",
+          "D": "To increase data size"
+        },
+        "answer": "B"
+      },
+      {
+        "id": "ML_5",
+        "question": "Which library is commonly used for machine learning in Python?",
+        "options": {
+          "A": "NumPy",
+          "B": "Pandas",
+          "C": "Scikit-learn",
+          "D": "Matplotlib"
+        },
+        "answer": "C"
+      }
+    ],
+    "Data Visualization": [
+      {
+        "id": "DV_1",
+        "question": "Which library is best for creating interactive plots in Python?",
+        "options": {
+          "A": "Matplotlib",
+          "B": "Seaborn",
+          "C": "Plotly",
+          "D": "Pandas"
+        },
+        "answer": "C"
+      },
+      {
+        "id": "DV_2",
+        "question": "What type of chart is best for showing distribution of data?",
+        "options": {
+          "A": "Bar chart",
+          "B": "Line chart",
+          "C": "Histogram",
+          "D": "Pie chart"
+        },
+        "answer": "C"
+      },
+      {
+        "id": "DV_3",
+        "question": "What does 'plt.show()' do in Matplotlib?",
+        "options": {
+          "A": "Saves the plot",
+          "B": "Displays the plot",
+          "C": "Clears the plot",
+          "D": "Exports the plot"
+        },
+        "answer": "B"
+      },
+      {
+        "id": "DV_4",
+        "question": "Which chart type is best for comparing categories?",
+        "options": {
+          "A": "Scatter plot",
+          "B": "Bar chart",
+          "C": "Line chart",
+          "D": "Area chart"
+        },
+        "answer": "B"
+      },
+      {
+        "id": "DV_5",
+        "question": "What is the purpose of a legend in a chart?",
+        "options": {
+          "A": "To show the title",
+          "B": "To explain what each element represents",
+          "C": "To show the source",
+          "D": "To display the date"
+        },
+        "answer": "B"
+      }
+    ],
+    "Statistical Analysis": [
+      {
+        "id": "SA_1",
+        "question": "What is the mean of the numbers 1, 2, 3, 4, 5?",
+        "options": {
+          "A": "1",
+          "B": "3",
+          "C": "5",
+          "D": "15"
+        },
+        "answer": "B"
+      },
+      {
+        "id": "SA_2",
+        "question": "What does 'p-value' represent in hypothesis testing?",
+        "options": {
+          "A": "Probability of the null hypothesis being true",
+          "B": "Probability of making a Type I error",
+          "C": "Probability of the alternative hypothesis being true",
+          "D": "Probability of the data given the null hypothesis"
+        },
+        "answer": "D"
+      },
+      {
+        "id": "SA_3",
+        "question": "What is the standard deviation?",
+        "options": {
+          "A": "Average of the numbers",
+          "B": "Measure of spread of the data",
+          "C": "Middle value of sorted data",
+          "D": "Most frequent value"
+        },
+        "answer": "B"
+      },
+      {
+        "id": "SA_4",
+        "question": "What is correlation?",
+        "options": {
+          "A": "Relationship between two variables",
+          "B": "Difference between two variables",
+          "C": "Ratio of two variables",
+          "D": "Sum of two variables"
+        },
+        "answer": "A"
+      },
+      {
+        "id": "SA_5",
+        "question": "What is a normal distribution?",
+        "options": {
+          "A": "Bell-shaped curve",
+          "B": "Uniform distribution",
+          "C": "Skewed distribution",
+          "D": "Discrete distribution"
+        },
+        "answer": "A"
+      }
+    ]
+  }
+}
